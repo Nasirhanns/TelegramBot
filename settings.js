@@ -6,18 +6,18 @@
 */
 const fs = require("fs");
 
-global.BOT_TOKEN = "7437332589:AAGQCXC41R3QYRdRXvOG1naRQ2svz6xJ84s" // create a bot here https://t.me/Botfather and get bot tokens
-global.BOT_NAME = "FiiBotz" //your bot name
-global.OWNER_NAME = "AlfiXD" //your name
-global.OWNER_NUMBER = "62895615063060" //your telegram number
-global.OWNER = ["https://t.me/RafaMods", "https://t.me/alfisyahrial"] // create a bot here https://t.me/Botfather and get bot tokens
+global.BOT_TOKEN = "8123468250:AAF6cvILUz92Ut3Jk_LErFQ8gLhKBwQ-ESc" // create a bot here https://t.me/Botfather and get bot tokens
+global.BOT_NAME = "Medusa_Bot" //your bot name
+global.OWNER_NAME = "Nasirxml" //your name
+global.OWNER_NUMBER = "6282353035070" //your telegram number
+global.OWNER = ["https://t.me/Kang_Nolep"] // create a bot here https://t.me/Botfather and get bot tokens
 const {
    indonesia
 } = require("./lib");
 global.language = indonesia
 global.lang = language
-global.adminId = "7437332589"
-global.pp = 'https://files.catbox.moe/tttkp9.jpg',
+global.adminId = "1569171840"
+global.pp = 'https://files.catbox.moe/2govag.jpg',
     //SERVER 1
   global.domain = '', // Fill in the domain used
   global.plta = '', // Fill in the appropriate hydropower value
